@@ -1,0 +1,1 @@
+In this lab I implemented an immutable class, including overridden versions of the hashcode and toString methods, as well as various factory methods.
